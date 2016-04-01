@@ -1,0 +1,7 @@
+
+To run PartC, in the top-level of “pi/partC” directory
+1. make
+2. ./papair [support] [confidence] [expend level]
+
+The output of each run is stored in partC_out.out
+We have already generate a call graph from test 3 and stored it in “callgraph” file.
