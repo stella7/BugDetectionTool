@@ -1,0 +1,7 @@
+
+To run PartD, in the top-level of “pi/partD” directory
+1. make
+2. ./papair [support] [confidence]
+
+The output of each run is stored in partD_out.out
+We have already generate a call graph from test 3 and stored it in “callgraph” file.

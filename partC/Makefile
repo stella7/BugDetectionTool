@@ -18,5 +18,5 @@ classes:
 	$(JC) $(JFLAGS) $(CLASSES) 
 	
 clean:
-	$(RM) $(BIN)/*.class
+	$(RM) -rf $(BIN)
 	$(RM) *.out
